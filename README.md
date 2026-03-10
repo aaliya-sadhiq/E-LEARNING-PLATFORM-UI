@@ -39,3 +39,15 @@ The code for this project was written using a code editor platform such as Visua
 
 
 Overall, this E-Learning Platform UI demonstrates how basic web technologies can be combined to create an interactive educational website. It can be used by schools, universities, online tutors, and training organizations to deliver digital learning content efficiently. The project also serves as a good example for beginners who want to understand how front-end web development works in real-world applications.
+
+OUTPUT:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/181292a3-e7d4-4a51-b1b7-b2bfe01dd469" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/383c5581-aa55-42dc-a41a-f486e8bf2f8b" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2f8c8e45-b335-4df6-81e6-54e6c706028e" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/465e536e-3463-42ca-a30f-aec9cabd1990" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/497cb383-0522-4296-84bf-42647353c269" />
